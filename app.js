@@ -76,3 +76,4 @@ function a() {
 
 var myVar = 1;
 a();
+b();
